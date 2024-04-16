@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_1" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24.75 14.75">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #2f1f3d;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1, .cls-2, .cls-5 {
+        stroke: #372447;
+      }
+
+      .cls-1, .cls-5 {
+        stroke-width: .5px;
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        stroke-width: .75px;
+      }
+
+      .cls-3 {
+        stroke: #8000e3;
+      }
+
+      .cls-3, .cls-4 {
+        opacity: .49;
+      }
+
+      .cls-3, .cls-4, .cls-5 {
+        fill: none;
+      }
+
+      .cls-4 {
+        stroke: #37cf47;
+      }
+
+      .cls-6 {
+        fill: #37cf47;
+      }
+
+      .cls-6, .cls-7 {
+        font-family: TiltNeon-Regular, 'Tilt Neon';
+        font-size: 10px;
+        font-variation-settings: 'XROT' 0, 'YROT' 0;
+      }
+
+      .cls-7 {
+        fill: #8000e3;
+      }
+    </style>
+  </defs>
+  <rect class="cls-5" x="13.23" y="1.37" width="10.29" height="12" rx="2" ry="2"/>
+  <rect class="cls-2" x=".38" y=".38" width="24" height="14" rx="2" ry="2"/>
+  <rect class="cls-3" x=".89" y="1.1" width="10.97" height="12.56" rx="2" ry="2"/>
+  <rect class="cls-4" x="12.69" y="1.1" width="10.97" height="12.56" rx="2" ry="2"/>
+  <rect class="cls-1" x="1.23" y="1.38" width="10.29" height="12" rx="2" ry="2"/>
+  <rect class="cls-1" x="13.03" y="1.38" width="10.29" height="12" rx="2" ry="2"/>
+  <text class="cls-7" transform="translate(2.89 10.77)"><tspan x="0" y="0">N</tspan></text>
+  <text class="cls-6" transform="translate(14.94 10.64)"><tspan x="0" y="0">D</tspan></text>
+</svg>
